@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elemix.ardasnturk.com/sitemap.xml
